@@ -1,5 +1,7 @@
 # Repo specific
 data
+catboost_info
+artifacts/models
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
